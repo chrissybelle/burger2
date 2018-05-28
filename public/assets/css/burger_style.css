@@ -1,0 +1,68 @@
+body {
+    background: #ffdb4d;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #cc0000;
+    text-align: center;
+}
+
+.submit, .change-status {
+    background-color: #0047b3;
+    color: #ffffff;
+}
+
+.results {
+    display: block;
+    margin: 15px;
+}
+
+.namedBurgers {
+    width: 50%;
+    display: inline-block;
+}
+
+.devouredBurgers {
+    width: 50%;
+    display: inline-block;
+}
+
+li {
+    list-style-type: none;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+    width: 150px;
+}
+
+.form {
+    display: block;
+}
+
+p {
+    text-align: center;
+}
+
+#burgerName {
+    width: 300px;
+    height: 50px;
+    display: block;
+    margin: 0 auto;
+}
+
+.undevouredItem {
+    background: #ffffff;
+}
+
+.devouredItem {
+    background: #999999;
+}
+
+.input {
+    display: block;
+}
